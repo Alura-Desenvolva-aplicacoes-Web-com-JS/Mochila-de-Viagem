@@ -12,4 +12,11 @@
 
 ## Projeto
 
-[Visite o projeto online]()
+[Visite o projeto online](https://murilocoelho1212.github.io/Mochila-de-Viagem/)
+
+---
+
+## Contato
+
+- Discord: murilo_coelho (ou muriloCoelho#0671);
+- LinkedIn: <https://www.linkedin.com/in/murilo-coelho-359a23271/>
